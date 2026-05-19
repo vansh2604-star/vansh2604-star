@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER WITH WAVES -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vansh&fontSize=60&fontAlignY=35&desc=Web%20Developer%20|%20C%20Programmer%20|%20Game%20Developer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vansh&fontSize=60&fontAlignY=35&desc=Web%20Developer%20|%20Java%20Programmer%20|%20Game%20Developer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- PREMIUM NAME ANIMATION -->
 <a href="https://git.io/typing-svg">
