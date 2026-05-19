@@ -5,9 +5,8 @@
 
 <!-- PREMIUM NAME ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=42&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=%E2%9C%A6+Vansh+%E2%9C%A6;Web+%26+Game+Developer;Java with DSA +React+%7C" alt="Animated Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=42&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=%E2%9C%A6+Vansh+%E2%9C%A6;MERN+Stack+Developer;Java+with+DSA;Web3+Enthusiast" alt="Animated Name" />
 </a>
-
 
 ---
 
