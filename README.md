@@ -33,7 +33,6 @@
 
 > > **Vansh** — 3rd Year Student at **Baba Saheb Ambedkar Institute, MDU University** (6th Semester)  
 > 📍 Janakpuri, Delhi | 💻 Full Stack Developer | 🚀 Open Source Enthusiast
-I'm a passionate developer who loves building interactive web experiences, solving logical challenges in C/C++, and creating game mechanics. I believe in code that's both functional and beautiful. Currently sharpening my full-stack skills while dreaming of leading AI product innovations.
 
 **⚡ Motto:** *Code. Create. Conquer.*
 
