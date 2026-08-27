@@ -104,10 +104,6 @@
 - **Higher Secondary (12th)** — *CBSE Board* | 73%
 - **Secondary School (10th)** — *CBSE Board* | 70%
 
-### 💼 Projects
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| **Portfolio Website** | React.js, GSAP, Matter.js | [Live Demo](https://portfolio-3s1l.onrender.com) |
 
 
 ### 💡 **Soft Skills**
