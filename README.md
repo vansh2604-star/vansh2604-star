@@ -101,10 +101,6 @@
 
 ### 🎓 Education
 - **Bachelor of Computer Applications (BCA)** — *Baba Saheb Ambedkar University* (2023–2026) | CGPA: 7.2
-- **Higher Secondary (12th)** — *CBSE Board* | 73%
-- **Secondary School (10th)** — *CBSE Board* | 70%
-
-
 
 ### 💡 **Soft Skills**
 `Leadership` • `Problem Solving` • `Team Collaboration` • `Time Management` • `Creative Thinking` • `Communication`
